@@ -1,2 +1,0 @@
-# neatcreater.github.io
-portfolio
